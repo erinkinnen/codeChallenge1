@@ -1,0 +1,21 @@
+.genButton {
+  background-color: red;
+  height: 80px;
+  width: 100%;
+}
+
+.swap {
+  height: 40px;
+  width: 80px;
+  float: left;
+}
+
+.remove {
+    height: 40px;
+    width: 80px;
+    float: right;
+}
+
+.colorswap {
+  background-color: yellow;
+}
